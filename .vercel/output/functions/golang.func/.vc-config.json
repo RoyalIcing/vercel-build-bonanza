@@ -1,0 +1,4 @@
+{
+    "runtime": "go1.x",
+    "handler": "main"
+}

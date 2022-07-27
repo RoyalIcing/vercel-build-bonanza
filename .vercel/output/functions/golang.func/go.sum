@@ -1,0 +1,4 @@
+github.com/aws/aws-lambda-go v1.33.0 h1:n4kw3zie82vPpLLN58ahlYHBz9k8QeK2svQep+jGnB8=
+github.com/aws/aws-lambda-go v1.33.0/go.mod h1:jwFe2KmMsHmffA1X2R09hH6lFzJQxzI8qK17ewzbQMM=
+github.com/vercel/go-bridge v0.0.0-20211115145851-c59668dff153 h1:n1H9uj9fpUA5+5cPtKDxZF4NaDp5mdMMfEdBxg8xqoY=
+github.com/vercel/go-bridge v0.0.0-20211115145851-c59668dff153/go.mod h1:RTTykQS0l8RDfOjATEreOpvPDo/yn1zW2nCCP8zBM7E=
