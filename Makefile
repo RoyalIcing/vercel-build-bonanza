@@ -8,3 +8,4 @@ httpstat:
 	httpstat "https://vercel-build-bonanza.vercel.app/robots.txt"
 	httpstat "https://vercel-build-bonanza.vercel.app/node16"
 	httpstat "https://vercel-build-bonanza.vercel.app/golang"
+	httpstat "https://vercel-build-bonanza.vercel.app/jsedge"
